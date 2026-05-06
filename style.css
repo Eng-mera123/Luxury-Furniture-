@@ -8,7 +8,7 @@
 
 /* --- Header Section --- */
 header {
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url("Assets/Images/header.png");
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.2)), url("header.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -312,7 +312,7 @@ h1 i {
 .inter4 {
     grid-column: 2;
     grid-row: 3; 
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("Assets/Images/inter  4.png");
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("inter  4.png");
     background-size: cover;
     background-position: center;
     border-radius: 20px;
@@ -371,7 +371,7 @@ h1 i {
 
 /* --- About Us Section --- */
 .about-us {
-    background-image: url("Assets/Images/footer.png");
+    background-image: url("footer.png");
     background-size: cover;
     background-position: center;
     height: 600px; 
